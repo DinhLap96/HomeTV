@@ -185,7 +185,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8|Referer=http://sct
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564374837/cmc_new/img.live_channel/0/0/0/0/148.jpg" group-title="Địa Phương",Hà Nội 2
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_hdtv.jpg" group-title="Địa Phương",Hải Dương
+#EXTINF:-1 tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_hdtv.jpg" group-title="Địa Phương",Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
