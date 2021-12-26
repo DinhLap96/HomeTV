@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#PLAYLISTINF:DinhLap version="V2" list1="http://gg.gg/8zy29" list2="http://gg.gg/coocaa"
+#PLAYLISTINF:DinhLap version="V1" list1="http://gg.gg/8zy29" list2="http://gg.gg/coocaa"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
